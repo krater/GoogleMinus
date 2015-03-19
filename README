@@ -33,6 +33,9 @@ At the moment it blacklists the following domains:
 
 Now the internet is usable again...
 
+Simply copy the xml file to your "searchplugin" folder. In my case it was
+C:\Program Files (x86)\Mozilla Firefox\browser\searchplugins
+
 See my blog[1] to lern how to add your own hate domains to the list
 
 [1] http://codenaschen.de/tichyblog/index.php?action=blog&entry=20
