@@ -1,0 +1,40 @@
+# GoogleMinus
+Firefox search plugin with blacklist
+Do you hate Google spam like I hate it ? Google Minus is your friend....
+
+At the moment it blacklists the following domains:
+*.gutefrage.net
+*.experts-exchange.com
+*.cosmiq.de
+*.helpster.de
+*.finanzfrage.net
+*.softonic.com
+*.softonic.it
+*.softonic.de
+*.filehippo.com
+*.soft32.com
+*.giga.de
+*.shareware.de
+*.softpedia.com
+*.soft-ware.net
+*.chip.de/downloads
+*.computerbild.de/download
+*.netzwelt.de/download
+*.pcwelt.de/downloads
+*.software.com
+*.informer.com
+*.markt.de
+*.chip.de
+*.ciao.de
+*.yopi.de
+*.preissuchmaschine.de
+*.spardeingeld.de
+*.quoka.de
+
+Now the internet is usable again...
+
+See my blog[1] to lern how to add your own hate domains to the list
+
+[1] http://codenaschen.de/tichyblog/index.php?action=blog&entry=20
+
+If you have additional domains that I could add, please let me know...
