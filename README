@@ -1,8 +1,10 @@
-# GoogleMinus
+GoogleMinus
+-----------
 Firefox search plugin with blacklist
+
 Do you hate Google spam like I hate it ? Google Minus is your friend....
 
-At the moment it blacklists the following domains:
+Actual it blacklists the following domains:
 *.gutefrage.net
 *.experts-exchange.com
 *.cosmiq.de
